@@ -5,6 +5,7 @@ $ brew install elixir
 $ mix deps.get
 $ mix deps.compile
 $ mix compile
+$ mix escriptize
 ```
 
 Have fun
