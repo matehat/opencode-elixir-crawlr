@@ -1,3 +1,5 @@
+Set things up
+
 ```bash
 $ brew install elixir
 $ mix deps.get
