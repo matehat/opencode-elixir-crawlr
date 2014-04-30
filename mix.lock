@@ -1,0 +1,2 @@
+[ "mochiweb": {:git, "https://github.com/mochi/mochiweb.git", "ba6cd156a5ac32ee59b6a5cbc23bbd4fb78a96cb", []},
+  "qrly": {:git, "git://github.com/matehat/qrly.git", "f6f00031a25dd85a7484836298948b429058875b", []} ]
