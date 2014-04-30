@@ -1,4 +1,8 @@
-Set things up
+### The hell?
+
+https://speakerdeck.com/matehat/parallelisme-simple-et-elegant-avec-erlang-et-elixir
+
+### How the hell?
 
 ```bash
 $ brew install elixir
@@ -8,12 +12,8 @@ $ mix compile
 $ mix escriptize
 ```
 
-Have fun
+### Now what?
 
 ```bash
 ./crawlr --race http://en.wikipedia.org/wiki/Leon_Trotsky http://en.wikipedia.org/wiki/Jesus
 ```
-
-The presentation this was for:
-
-https://speakerdeck.com/matehat/parallelisme-simple-et-elegant-avec-erlang-et-elixir
