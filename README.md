@@ -2,7 +2,7 @@
 
 https://speakerdeck.com/matehat/parallelisme-simple-et-elegant-avec-erlang-et-elixir
 
-### How the hell?
+### How?
 
 ```bash
 $ brew install elixir
